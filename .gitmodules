@@ -1,3 +1,6 @@
 [submodule "libraries"]
 	path = libraries
 	url = https://github.com/jdunmire/kicad-ESP8266.git
+[submodule "ad2tech"]
+	path = ad2tech
+	url = https://github.com/ab2tech/KiCad.git

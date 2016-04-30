@@ -1,4 +1,4 @@
-update=2016-04-30 11:41:47
+update=2016-04-30 14:25:15
 version=1
 last_client=kicad
 [pcbnew]
@@ -109,3 +109,7 @@ LibName77=Worldsemi
 LibName78=Xicor
 LibName79=Zilog
 LibName80=library/cp2101
+LibName81=libraries/ESP8266
+LibName82=library/minidin7
+LibName83=ad2tech/library/ab2_input_devices
+LibName84=library/ug-2864

@@ -1,4 +1,4 @@
-update=2016-04-30 14:25:15
+update=2016-05-02 21:39:12
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -113,3 +111,15 @@ LibName81=libraries/ESP8266
 LibName82=library/minidin7
 LibName83=ad2tech/library/ab2_input_devices
 LibName84=library/ug-2864
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+[general]
+version=1

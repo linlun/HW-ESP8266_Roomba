@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri "$(KIPRJMOD)\\libraries\\ESP8266.pretty")(options "")(descr ""))
+  (lib (name ab2_input_devices)(type KiCad)(uri "$(KIPRJMOD)\\ad2tech\\modules\\ab2_input_devices.pretty")(options "")(descr ""))
+  (lib (name library)(type KiCad)(uri "$(KIPRJMOD)\\library.pretty")(options "")(descr ""))
+)

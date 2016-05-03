@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMC204010R
+D 50V Vce, 0.1A Ic, Dual NPN, Small Signal Transistor, SOT-23-6
+K DMC204010R NPN Transistor
+F http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/DMC20401.pdf
+$ENDCMP
+#
+#End Doc Library

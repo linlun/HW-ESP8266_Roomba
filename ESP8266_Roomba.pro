@@ -1,4 +1,4 @@
-update=2016-05-10 06:27:25
+update=2016-05-11 19:20:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,17 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=
@@ -115,14 +126,4 @@ LibName83=ad2tech/library/ab2_input_devices
 LibName84=library/ug-2864
 LibName85=library/DMC204010R
 LibName86=library/74lvc3g14
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
-ERC_TestSimilarLabels=1
+LibName87=library/d_schottky_x2_bas70-06

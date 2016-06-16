@@ -3,7 +3,7 @@
   (general
     (links 183)
     (no_connects 3)
-    (area 99.884999 69.974999 200.035001 100.135001)
+    (area 99.3225 68.674001 201.6525 104.361666)
     (thickness 1.6)
     (drawings 60)
     (tracks 945)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.8)
+    (last_trace_width 0.25)
     (user_trace_width 0.155)
     (user_trace_width 0.25)
     (user_trace_width 0.45)
@@ -985,7 +985,7 @@
     (tags "resistor 0603")
     (path /5726EC30)
     (attr smd)
-    (fp_text reference R18 (at 0 -3.2) (layer F.SilkS)
+    (fp_text reference R18 (at 2.7 0.18) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 1k (at 0 1.9) (layer F.Fab)
@@ -1622,7 +1622,7 @@
     (tags "capacitor 0603")
     (path /5726F823)
     (attr smd)
-    (fp_text reference C7 (at -2.3 -2 180) (layer F.SilkS)
+    (fp_text reference C7 (at -0.03 1.42 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 100n (at 0 1.9 180) (layer F.Fab)
